@@ -1,0 +1,38 @@
+{
+	"Currencies": {
+		"gem": {
+			"Name": "Ruby",
+			"Plural Name": "Rubies",
+			"Color": "#ad1010"
+		}
+	},
+	"LOREDs": {
+		"gem": {
+			"Title": "Rubies",
+			"Name": "Morshu",
+			"Color": "0.68, 0.066, 0.066",
+			"Description": "Has a REALLY funny accent.",
+			"Favorite Thing": "Shoppers!"
+		}
+	},
+	"Jobs": {
+		"gem": {
+			"Name": "Sell",
+			"Status Text": "Sellin'!"
+		}
+	},
+	"Upgrades": {
+		"unlock_gem": {
+			"Name": "You wouldn't stuff a Morshu in a LORED, would you, Mr. Epixium?"
+		},
+		"SUPER_SUCKER": {
+			"Name": "Lamp Oil"
+		},
+		"TORIYAMA": {
+			"Name": "Rope"
+		},
+		"SUPER_SUCKER_2": {
+			"Name": "Bombs"
+		}
+	}
+}
