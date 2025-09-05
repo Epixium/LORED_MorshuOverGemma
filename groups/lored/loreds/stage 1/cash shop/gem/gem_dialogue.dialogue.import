@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://bq03g0mwp1iq6"
+path="res://.godot/imported/gem_dialogue.dialogue-32c3cb5e43aacd8b42e2a65b5a0da42c.tres"
+
+[deps]
+
+source_file="res://groups/lored/loreds/stage 1/cash shop/gem/gem_dialogue.dialogue"
+dest_files=["res://.godot/imported/gem_dialogue.dialogue-32c3cb5e43aacd8b42e2a65b5a0da42c.tres"]
+
+[params]
+
+defaults=true

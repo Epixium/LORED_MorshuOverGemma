@@ -1,0 +1,25 @@
+~ gem
+GEM: Lamp oil? Rope? Bombs? You want it? It's [i]yours,[/i] my friend... as long as you have enough [i]{{get_currency_name("gem", true)}}![/i]
+- I want lamp oil.
+	=> no_credit
+- I want rope.
+	=> no_credit
+- I want bombs.
+	=> no_credit
+- I want nothing.
+	=> morshus_glorious_song
+
+#region NoCredit
+
+~ no_credit
+GEM: Sorry, [b]Player[/b], I can't [i]give[/i] credit! Come back when you're a little, mmm... [tornado radius=2 freq=5][rainbow freq=1.0 sat=0.5 val=1.0 speed=1.0]richer![/rainbow][/tornado]
+=> END!
+
+~ morshus_glorious_song
+GEM: But I am reminded of a song.
+GEM: [wave amplitude=2 freq=4][i]Iiiiiiiii....[/i][/wave]
+GEM: [tornado radius=3 freq=5][b]WAAAAAAAAAAAAAANTTTT....[/b][/tornado]
+GEM: Nothin'.
+=> END!
+
+#endregion

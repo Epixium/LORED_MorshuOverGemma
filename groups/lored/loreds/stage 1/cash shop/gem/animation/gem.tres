@@ -1,0 +1,362 @@
+[gd_resource type="SpriteFrames" load_steps=89 format=3 uid="uid://hj5yb3o8fplk"]
+
+[ext_resource type="Texture2D" uid="uid://cggekka2wnrn4" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 1.png" id="1_1b7bw"]
+[ext_resource type="Texture2D" uid="uid://b3ma1mmhichsg" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 2.png" id="2_gpre4"]
+[ext_resource type="Texture2D" uid="uid://btkr3eciiifnk" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 3.png" id="3_jk3v7"]
+[ext_resource type="Texture2D" uid="uid://ctyyxqjp80p2r" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 4.png" id="4_eiy32"]
+[ext_resource type="Texture2D" uid="uid://dvoai1nedvauh" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 5.png" id="5_b81yl"]
+[ext_resource type="Texture2D" uid="uid://cchb1uei3tor6" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 6.png" id="6_d5543"]
+[ext_resource type="Texture2D" uid="uid://f8t5lf7gic3o" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 7.png" id="7_yytci"]
+[ext_resource type="Texture2D" uid="uid://dvnnmaus27xh" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 8.png" id="8_oc7lw"]
+[ext_resource type="Texture2D" uid="uid://bhsq8eex5vlyl" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 9.png" id="9_riq85"]
+[ext_resource type="Texture2D" uid="uid://bk708ykksjrgd" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 10.png" id="10_clh2t"]
+[ext_resource type="Texture2D" uid="uid://wbu7wk760g7v" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 11.png" id="11_ljcbs"]
+[ext_resource type="Texture2D" uid="uid://c85m2y5jjlnrd" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 12.png" id="12_ar8h8"]
+[ext_resource type="Texture2D" uid="uid://cdhah7b5nwo0w" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 13.png" id="13_jf6ho"]
+[ext_resource type="Texture2D" uid="uid://1fd22a1yn5on" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 14.png" id="14_hkx1s"]
+[ext_resource type="Texture2D" uid="uid://dvetn6vgxg3bs" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 15.png" id="15_bbfer"]
+[ext_resource type="Texture2D" uid="uid://cq7ymhm2l0lsg" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 16.png" id="16_t5tv1"]
+[ext_resource type="Texture2D" uid="uid://cfu1wk5mtsk0t" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 17.png" id="17_m557l"]
+[ext_resource type="Texture2D" uid="uid://biff4vylnchu8" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 18.png" id="18_r04pe"]
+[ext_resource type="Texture2D" uid="uid://cpoj23r3u45k1" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 19.png" id="19_ik5yt"]
+[ext_resource type="Texture2D" uid="uid://cn3dm2ds2a53i" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 20.png" id="20_ejn71"]
+[ext_resource type="Texture2D" uid="uid://bge8kmxftolki" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 21.png" id="21_07fgn"]
+[ext_resource type="Texture2D" uid="uid://sygqgniltvhy" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 22.png" id="22_5unga"]
+[ext_resource type="Texture2D" uid="uid://bokpibs0kxhpq" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 23.png" id="23_42vbt"]
+[ext_resource type="Texture2D" uid="uid://oy0lsdm3o02r" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 24.png" id="24_il1hn"]
+[ext_resource type="Texture2D" uid="uid://b27l0vcxh3bqm" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 25.png" id="25_b47e2"]
+[ext_resource type="Texture2D" uid="uid://dlsrd0klsklk6" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 26.png" id="26_c3l1i"]
+[ext_resource type="Texture2D" uid="uid://ccajpfe6tuvl8" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 27.png" id="27_mdruk"]
+[ext_resource type="Texture2D" uid="uid://dwr5qn5va8q0x" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 28.png" id="28_q4mbm"]
+[ext_resource type="Texture2D" uid="uid://clyji1367hxvo" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 29.png" id="29_0g7km"]
+[ext_resource type="Texture2D" uid="uid://c3xpd5hl1y7k2" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 30.png" id="30_ga167"]
+[ext_resource type="Texture2D" uid="uid://c3hn6x7cp8onm" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 31.png" id="31_rwfjl"]
+[ext_resource type="Texture2D" uid="uid://ddb0t6kf7spab" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 32.png" id="32_cwtby"]
+[ext_resource type="Texture2D" uid="uid://yidguyrd083w" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 33.png" id="33_8xmdb"]
+[ext_resource type="Texture2D" uid="uid://m4c1l235yxak" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 34.png" id="34_d30n2"]
+[ext_resource type="Texture2D" uid="uid://ciqjg7c5hgdst" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 35.png" id="35_5aycm"]
+[ext_resource type="Texture2D" uid="uid://bkbsfa430llxa" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 36.png" id="36_1gxr4"]
+[ext_resource type="Texture2D" uid="uid://dc8w2c4xru8sk" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 37.png" id="37_eow3m"]
+[ext_resource type="Texture2D" uid="uid://carwjj7pc35a2" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 38.png" id="38_a4pef"]
+[ext_resource type="Texture2D" uid="uid://cosgqmn03yb1j" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 39.png" id="39_12byu"]
+[ext_resource type="Texture2D" uid="uid://ducogpm5h08ay" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 40.png" id="40_se4we"]
+[ext_resource type="Texture2D" uid="uid://d4f0sacj1ddqb" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 41.png" id="41_06bob"]
+[ext_resource type="Texture2D" uid="uid://bull6g8tn6ud7" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 42.png" id="42_v81r7"]
+[ext_resource type="Texture2D" uid="uid://bhaxbcjdlg3dm" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 43.png" id="43_mv4ox"]
+[ext_resource type="Texture2D" uid="uid://dd1ylh886rhye" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 44.png" id="44_pwa82"]
+[ext_resource type="Texture2D" uid="uid://c248je7pwwoxc" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 45.png" id="45_r1uev"]
+[ext_resource type="Texture2D" uid="uid://2ep216hd5whw" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 46.png" id="46_rha35"]
+[ext_resource type="Texture2D" uid="uid://c0j1qwx2bew80" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 47.png" id="47_ppkme"]
+[ext_resource type="Texture2D" uid="uid://b8tb2r65o7a1j" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 48.png" id="48_bk7jn"]
+[ext_resource type="Texture2D" uid="uid://dittvul7qgkuu" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 49.png" id="49_ca5vd"]
+[ext_resource type="Texture2D" uid="uid://bfd64wycmccwg" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 50.png" id="50_rqxc4"]
+[ext_resource type="Texture2D" uid="uid://i0s7hfowm4q7" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 51.png" id="51_dpsc0"]
+[ext_resource type="Texture2D" uid="uid://cai0xjhd0thwu" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 52.png" id="52_e7pyv"]
+[ext_resource type="Texture2D" uid="uid://wojqq0dt1pad" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 53.png" id="53_u2app"]
+[ext_resource type="Texture2D" uid="uid://c4yy2b326yj7e" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 54.png" id="54_phadf"]
+[ext_resource type="Texture2D" uid="uid://142myl6pyd6w" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 55.png" id="55_o32ho"]
+[ext_resource type="Texture2D" uid="uid://boytmgwdkiw0u" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 56.png" id="56_xp8pe"]
+[ext_resource type="Texture2D" uid="uid://dqqle0v8ds3e5" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 57.png" id="57_rlxgw"]
+[ext_resource type="Texture2D" uid="uid://44xy17bui2u" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 58.png" id="58_dcsp7"]
+[ext_resource type="Texture2D" uid="uid://drc6kfux8sexc" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 59.png" id="59_ivafr"]
+[ext_resource type="Texture2D" uid="uid://cgs32g6etnihd" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 60.png" id="60_qatjs"]
+[ext_resource type="Texture2D" uid="uid://cknygfbqwj6gh" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 61.png" id="61_mayor"]
+[ext_resource type="Texture2D" uid="uid://sx6chwywfxka" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 62.png" id="62_bni2w"]
+[ext_resource type="Texture2D" uid="uid://fctarug4a1nv" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 63.png" id="63_xgnnw"]
+[ext_resource type="Texture2D" uid="uid://dpxeqn54b6sa4" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 64.png" id="64_emfu0"]
+[ext_resource type="Texture2D" uid="uid://dnq68qjof05yr" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 65.png" id="65_nsj0h"]
+[ext_resource type="Texture2D" uid="uid://c8ju7ih0mjfdo" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 66.png" id="66_jbkgi"]
+[ext_resource type="Texture2D" uid="uid://bqqy7d26wurxk" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 67.png" id="67_k13a7"]
+[ext_resource type="Texture2D" uid="uid://cglujp6rcoat2" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 68.png" id="68_fu21r"]
+[ext_resource type="Texture2D" uid="uid://b5745yprjmppv" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 69.png" id="69_0j7tp"]
+[ext_resource type="Texture2D" uid="uid://dqjndowilyoxl" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 70.png" id="70_ri75c"]
+[ext_resource type="Texture2D" uid="uid://bmahvew0aoe8i" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 71.png" id="71_2humm"]
+[ext_resource type="Texture2D" uid="uid://bat20owiulpde" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 72.png" id="72_8ci57"]
+[ext_resource type="Texture2D" uid="uid://dwvw6vnovhdwh" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 73.png" id="73_nwfnd"]
+[ext_resource type="Texture2D" uid="uid://dfshuhcb5740u" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 74.png" id="74_0kx4b"]
+[ext_resource type="Texture2D" uid="uid://c3vr1hleje2w5" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 75.png" id="75_4m7ov"]
+[ext_resource type="Texture2D" uid="uid://cxu0sqvbu1mps" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 76.png" id="76_nl1x8"]
+[ext_resource type="Texture2D" uid="uid://chu1e4u8lvq2u" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 77.png" id="77_10yif"]
+[ext_resource type="Texture2D" uid="uid://cb7j71apa4kf6" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 78.png" id="78_vlyuf"]
+[ext_resource type="Texture2D" uid="uid://s2bgrytmltkt" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 79.png" id="79_8htaf"]
+[ext_resource type="Texture2D" uid="uid://gtelho2vvsms" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 80.png" id="80_pw2vw"]
+[ext_resource type="Texture2D" uid="uid://ca5in0fmjqejp" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 81.png" id="81_spyvr"]
+[ext_resource type="Texture2D" uid="uid://ddh01einame8l" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 82.png" id="82_ry5pa"]
+[ext_resource type="Texture2D" uid="uid://tux1g4qjkx0v" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 83.png" id="83_ca2bf"]
+[ext_resource type="Texture2D" uid="uid://b5rw64jrb13hw" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 84.png" id="84_5db31"]
+[ext_resource type="Texture2D" uid="uid://cw4sfmll3vy1g" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 85.png" id="85_7dvpw"]
+[ext_resource type="Texture2D" uid="uid://x2ebmlxpjnlf" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 86.png" id="86_1r5m0"]
+[ext_resource type="Texture2D" uid="uid://devsirbrohb1g" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 87.png" id="87_aopkc"]
+[ext_resource type="Texture2D" uid="uid://d14gf557s7us3" path="res://groups/lored/loreds/stage 1/cash shop/gem/animation/frames/Frame 88.png" id="88_1bhuo"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_1b7bw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_gpre4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_jk3v7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_eiy32")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_b81yl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_d5543")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_yytci")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_oc7lw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_riq85")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_clh2t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_ljcbs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_ar8h8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_jf6ho")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_hkx1s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_bbfer")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_t5tv1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_m557l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_r04pe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_ik5yt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_ejn71")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_07fgn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_5unga")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_42vbt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_il1hn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_b47e2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_c3l1i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_mdruk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_q4mbm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_0g7km")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_ga167")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_rwfjl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_cwtby")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_8xmdb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_d30n2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_5aycm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_1gxr4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_eow3m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_a4pef")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_12byu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_se4we")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_06bob")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_v81r7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_mv4ox")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_pwa82")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_r1uev")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_rha35")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_ppkme")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_bk7jn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_ca5vd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_rqxc4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_dpsc0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_e7pyv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_u2app")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_phadf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_o32ho")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_xp8pe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_rlxgw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_dcsp7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_ivafr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_qatjs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_mayor")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_bni2w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_xgnnw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_emfu0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_nsj0h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_jbkgi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_k13a7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_fu21r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_0j7tp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_ri75c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_2humm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_8ci57")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_nwfnd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_0kx4b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_4m7ov")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_nl1x8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_10yif")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_vlyuf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_8htaf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_pw2vw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_spyvr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_ry5pa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_ca2bf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_5db31")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_7dvpw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_1r5m0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_aopkc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_1bhuo")
+}],
+"loop": false,
+"name": &"GEM",
+"speed": 1.0
+}]
